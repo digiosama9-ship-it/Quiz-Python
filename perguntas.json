@@ -21,7 +21,7 @@
     "id": 3,
     "pergunta": "Em que ano terminou a Segunda Guerra Mundial?",
     "opcoes": ["1943", "1944", "1945", "1946"],
-    "resposta": 1,
+    "resposta": 3,
     "categoria": "História",
     "dificuldade": "facil",
     "explicacao": "A Segunda Guerra Mundial terminou em 1945, com a rendição da Alemanha em maio e do Japão em setembro."
@@ -32,7 +32,8 @@
     "opcoes": ["Oceano Atlântico", "Oceano Índico", "Oceano Ártico", "Oceano Pacífico"],
     "resposta": 4,
     "categoria": "Geografia",
-    "dificuldade": "médio",
+    "dificuldade": "médio",     
+    
     "explicacao": "O Oceano Pacífico é o maior oceano do mundo, cobrindo mais de 165 milhões de km²."
   },
   {
